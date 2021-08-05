@@ -1,0 +1,6 @@
+Monica Geller,01101,Cook,30000,018346283,monica@gmail.com,01/03/2008
+Ross Geller,01102,paleontologist,60000,013472944,ross@yahoo.com,01/08/1997
+Joey Tribbiyani,01106,Actor,20000,018361834,joey@yahoo.com,08/05/2008
+achol,01109,executive,30000,456475869,achol@gmail.com,12.01.2018
+oroni,123,erdg,123353,863654524,hfakge,10.01.18
+jj,88i868,ghjg,87097,i76858,kyouir,jhkg
